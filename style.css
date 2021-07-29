@@ -1,7 +1,9 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
-/* .header-section{
-    background-color: #264653;
-    width: 100%;
-} */
+.fa-star.filled{
+    color: #E76F51;
+}
+.fa-star.empty{
+    color: gainsboro;
+}
